@@ -1131,7 +1131,7 @@ body {
     -0.125vw 0.125vw 1vw rgba(81, 137, 251, 0.5),
     0.125vw -0.125vw 1vw rgba(81, 137, 251, 0.5),
     -0.125vw -0.125vw 1vw rgba(81, 137, 251, 0.5);
-  background-image: url("./images/an2.gif");
+  background-image: url("an2.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -1708,7 +1708,7 @@ body {
   background-color: #383358;
 }
 .cuadro-l__front {
-  background-image: url("./images/DP.png");
+  background-image: url("DP.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -1733,7 +1733,7 @@ body {
   left: 20vw;
 }
 .cuadro-r__front {
-  background-image: url("./images/dp2.jpg");
+  background-image: url("dp2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
